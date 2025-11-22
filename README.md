@@ -6,8 +6,8 @@ A modern, feature-rich Pokémon browser application built with React 19, TypeScr
 
 ## 🌟 Live Demo
 
-- **Live Application**: [Your Deployment URL]
-- **GitHub Repository**: [Your GitHub URL]
+- **Live Application**: https://pokmon-taupe.vercel.app/
+- **GitHub Repository**: https://github.com/eman27596/pok-mon-app
 
 ## 📋 Table of Contents
 
