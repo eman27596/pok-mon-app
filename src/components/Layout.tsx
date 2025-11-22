@@ -35,7 +35,7 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
                             </Link>
                             <Link
                                 to="/infinite-scroll"
-                                className={`lg:px-5 px-1 lg:py-2.5 py-2 rounded-xl font-semibold  text-xs lg:text-sm transition-all duration-300 ${isActive('/')
+                                className={`lg:px-5 px-1 lg:py-2.5 py-2 rounded-xl font-semibold  text-xs lg:text-sm transition-all duration-300 ${isActive('/infinite-scroll')
                                     ? 'bg-gradient-to-r from-primary-600 to-primary-700 text-white shadow-lg shadow-primary-300'
                                     : 'text-gray-700 hover:bg-primary-50 hover:text-primary-700'
                                 }`}
